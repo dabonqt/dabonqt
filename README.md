@@ -22,7 +22,7 @@ I am currently learning Python and PowerBi to add them in my toolbox.
 
 Tools that I currently have in hand are Excel, Google Sheets, SQL, Tableau, R.
 
-You can reach me in LinkedIn and let's get into business 
+You can reach me in LinkedIn, so we can get into business 
 
 Fun fact:
   - I love board games and puzzles.
