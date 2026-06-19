@@ -6,7 +6,7 @@ I treat data and information as the modern-day currency.
 
 I am currently learning Python and PowerBi to add them in my toolbox.
 
-Tools that I currently have in hand are Spreadsheets(Excel & Google Sheets), SQL, Tableau, R.
+Tools that I currently have in hand are Spreadsheets(Excel & Google Sheets), SQL, Tableau.
 
 You can reach me in LinkedIn, and let's get into it!
 
